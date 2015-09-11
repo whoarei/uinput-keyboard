@@ -1,0 +1,140 @@
+<?xml version="1.0"?>
+<keyboard>
+    <key name="Power">
+        <code>118</code>
+        <down>1</down>
+    </key>
+    <delay>
+        <ms>5000</ms>
+    </delay>
+    <key name="Power">
+        <code>118</code>
+        <down>0</down>
+    </key>
+    <key name="Up">
+        <code>103</code>
+        <down>1</down>
+    </key>
+    <key name="Up">
+        <code>103</code>
+        <down>0</down>
+    </key>
+    <delay>
+        <ms>60</ms>
+    </delay>
+    <key name="Enter">
+        <code>28</code>
+        <down>1</down>
+    </key>
+    <key name="Enter">
+        <code>28</code>
+        <down>0</down>
+    </key>
+    <delay>
+        <ms>2900</ms>
+    </delay>
+    <key name="Up">
+        <code>103</code>
+        <down>1</down>
+    </key>
+    <key name="Up">
+        <code>103</code>
+        <down>0</down>
+    </key>
+    <delay>
+        <ms>60</ms>
+    </delay>
+    <key name="Up">
+        <code>103</code>
+        <down>1</down>
+    </key>
+    <key name="Up">
+        <code>103</code>
+        <down>0</down>
+    </key>
+    <delay>
+        <ms>60</ms>
+    </delay>
+    <key name="Down">
+        <code>108</code>
+        <down>1</down>
+    </key>
+    <key name="Down">
+        <code>108</code>
+        <down>0</down>
+    </key>
+    <delay>
+        <ms>60</ms>
+    </delay>
+    <key name="2">
+        <code>3</code>
+        <down>1</down>
+    </key>
+    <key name="2">
+        <code>3</code>
+        <down>0</down>
+    </key>
+    <delay>
+        <ms>60</ms>
+    </delay>
+    <key name="2">
+        <code>3</code>
+        <down>1</down>
+    </key>
+    <key name="2">
+        <code>3</code>
+        <down>0</down>
+    </key>
+    <delay>
+        <ms>60</ms>
+    </delay>
+    <key name="2">
+        <code>3</code>
+        <down>1</down>
+    </key>
+    <key name="2">
+        <code>3</code>
+        <down>0</down>
+    </key>
+    <delay>
+        <ms>60</ms>
+    </delay>
+    <key name="2">
+        <code>3</code>
+        <down>1</down>
+    </key>
+    <key name="2">
+        <code>3</code>
+        <down>0</down>
+    </key>
+    <delay>
+        <ms>60</ms>
+    </delay>
+    <key name="8">
+        <code>9</code>
+        <down>1</down>
+    </key>
+    <key name="8">
+        <code>9</code>
+        <down>0</down>
+    </key>
+    <key name="2">
+        <code>3</code>
+        <down>1</down>
+    </key>
+    <key name="2">
+        <code>3</code>
+        <down>0</down>
+    </key>
+    <delay>
+        <ms>1000</ms>
+    </delay>
+    <key name="Cancel">
+        <code>223</code>
+        <down>1</down>
+    </key>
+    <key name="Cancel">
+        <code>223</code>
+        <down>0</down>
+    </key>
+</keyboard>
